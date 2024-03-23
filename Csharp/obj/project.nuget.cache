@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+l09wiuS8Ha2kMNC1qOdr92WLiDYj6RHZhr0lIOJqzqF0vzCTAxlrW4NSVFS4fUJfzxS2wzd9sflQqLekb0lg==",
+  "success": true,
+  "projectFilePath": "/home/reporternv/Project/Learning/Csharp/Csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/reporternv/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
