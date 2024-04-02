@@ -1,0 +1,15 @@
+/home/reporternv/Project/Learning/Csharp/bin/Debug/net8.0/Csharp
+/home/reporternv/Project/Learning/Csharp/bin/Debug/net8.0/Csharp.deps.json
+/home/reporternv/Project/Learning/Csharp/bin/Debug/net8.0/Csharp.runtimeconfig.json
+/home/reporternv/Project/Learning/Csharp/bin/Debug/net8.0/Csharp.dll
+/home/reporternv/Project/Learning/Csharp/bin/Debug/net8.0/Csharp.pdb
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfoInputs.cache
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.AssemblyInfo.cs
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.csproj.CoreCompileInputs.cache
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.sourcelink.json
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.dll
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/refint/Csharp.dll
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.pdb
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/Csharp.genruntimeconfig.cache
+/home/reporternv/Project/Learning/Csharp/obj/Debug/net8.0/ref/Csharp.dll
